@@ -1,7 +1,7 @@
 .container {
   max-width: 120rem;
   margin: 0 auto;
-  background-color: var(--color-grey-light-2);
+  background-color: #fff;
   box-shadow: var(--shadow-dark);
 
   min-height: 50rem;
@@ -10,8 +10,7 @@
 .header {
   font-size: 1.4rem;
   height: 7rem;
-  background-color: #fff;
-  border-bottom: var(--color-grey-light-2);
+  border-bottom: 1px solid var(--color-grey-light-2);
 
   display: flex;
   justify-content: space-between;
